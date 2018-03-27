@@ -3,9 +3,9 @@
 
 This code lab intended to introduce new Machine Learning Algorithm // DEAP : Distributed Evolutionary Algorithm Framework.
 
-# State of the ART references ( keep updated ♞ )
-Unicode: U+265E, UTF-8: E2 99 9E )
+# State of the ART references (keep updated ♟)
 1. http://www.jmlr.org/papers/volume13/fortin12a/fortin12a.pdf
 2. https://github.com/DEAP/deap
 
 
+♟♙
